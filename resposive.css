@@ -1,0 +1,46 @@
+@media screen and (max-width: 650px){
+ #desktop-nav{
+    flex-direction: column;
+ }
+ .hoverz{
+    font-size: 3vw;   
+ }
+ .lower{
+   flex-direction: column;
+ }
+ .container{
+   width: 80%;
+   height: fit-content;
+ }
+ .header{
+   font-size: 8vw;
+}
+.uppdesc{
+    font-size: 5vw;
+
+ }
+ .hoverz{
+   font-size: 5vw;
+ }
+ .conimg{
+   height: 40vw;
+ }
+ .type{
+   font-size: 5vw;
+ }
+ .desctrio > p{
+   font-size: 3vw;
+ }
+ .smain > p{
+   font-size: 3vw;
+ }
+ .logo > p{
+  font-size: 5vw;
+  position: relative;
+  left: 15.3vw;
+ }
+ .loading{
+  position: relative;
+  
+ }
+}
